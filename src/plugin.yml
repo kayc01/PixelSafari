@@ -1,0 +1,12 @@
+name: PocketPixelsSafari
+main: me.Ckay.safari.Safari
+depend: [Vault]
+version: 1
+author: ABkayCkay
+permissions:
+  safari.admin:
+    description: Give access to admin safari permissions.
+commands:
+   safari:
+      description: Main Safari command
+      usage: /safari

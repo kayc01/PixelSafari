@@ -1,0 +1,6 @@
+config:
+  safari:
+    enable_fee: True
+    fee: 10000
+    time: 5
+    fee_per_min: 2000
